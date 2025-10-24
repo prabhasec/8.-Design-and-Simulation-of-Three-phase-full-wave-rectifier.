@@ -43,7 +43,19 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1237" height="687" alt="Screenshot 2025-10-18 112443" src="https://github.com/user-attachments/assets/7eda333d-e6e8-48d4-8e05-a8cedc641194" />
+
 
 ## Output
+I) a=30
+<img width="1917" height="985" alt="Screenshot 2025-10-18 112247" src="https://github.com/user-attachments/assets/9a9f387c-5496-40fd-a935-99dfe71021de" />
+
+II) a=90
+<img width="1913" height="989" alt="Screenshot 2025-10-18 112317" src="https://github.com/user-attachments/assets/8b56d9d0-a933-42d7-a4ca-5a837095bb4d" />
+
+III) a=60
+<img width="1913" height="989" alt="Screenshot 2025-10-18 112415" src="https://github.com/user-attachments/assets/e6fc3a07-5d1d-4ade-934e-1ba2ead694fd" />
+
 
 ## Result
+Thus , the experiment has been stimulated and the output has verified successfully using matlab.
